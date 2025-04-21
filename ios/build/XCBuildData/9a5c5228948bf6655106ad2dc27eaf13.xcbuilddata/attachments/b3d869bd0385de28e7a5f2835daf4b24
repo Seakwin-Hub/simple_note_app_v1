@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master.swiftdeps"
+  },
+  "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chhimseakwin/Desktop/File/Mobile/todo_app_v2/ios/build/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
