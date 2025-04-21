@@ -150,6 +150,7 @@ class ViewNoteScreen extends StatelessWidget {
     );
     if (confirm == true) {
       await _databaseHelper.deleteNote(note!.id!);
+      // ignore: use_build_context_synchronously
       Navigator.pop(context);
     }
   }

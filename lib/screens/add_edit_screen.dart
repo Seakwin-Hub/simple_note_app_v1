@@ -30,7 +30,6 @@ class _AddEditScreenState extends State<AddEditScreen> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     if (widget.note != null) {
       _titleController.text = widget.note!.title;
